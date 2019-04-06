@@ -1,17 +1,15 @@
-# silent-ffmpeg
+# silent-ffmpeg - in development
 
-silent-ffmpeg.sh is a little script for a automated Video transcode task.
+silent-ffmpeg.sh is a small script for an automated video transcoding task.
 
-### Depencies
+### dependencies
 
 * ffmpeg with x264 and libfdk_aac
 * mkvmerge
 
-### Cronjob
+### Cron job
 
-You can run it per cron every 15 minutes.
-The script looks about new files and handle it.
+You can do it every 15 minutes via cron.
+The script looks for new files and treats them.
 
-
-
-Any contributions are highly welcome.
+All posts are very welcome.
